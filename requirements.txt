@@ -1,9 +1,9 @@
-certifi==2023.7.22
+certifi==2024.8.30
 chardet==5.2.0
 Deprecated==1.2.14
 idna==3.7
 PyGithub==1.59.1
 PyJWT==2.8.0
-requests==2.31.0
-urllib3==2.0.7
+requests==2.32.3
+urllib3==2.2.3
 wrapt==1.15.0
